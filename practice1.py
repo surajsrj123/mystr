@@ -1,3 +1,3 @@
 my_str="suraj"
 
-print(my_str[::-1])
+print(my_str)
